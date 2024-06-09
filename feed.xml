@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://philae-ael.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://philae-ael.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-01-30T16:20:59+00:00</updated><id>https://philae-ael.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">projects I want to do</title><link href="https://philae-ael.github.io/blog/2024/projects/" rel="alternate" type="text/html" title="projects I want to do"/><published>2024-01-30T15:51:00+00:00</published><updated>2024-01-30T15:51:00+00:00</updated><id>https://philae-ael.github.io/blog/2024/projects</id><content type="html" xml:base="https://philae-ael.github.io/blog/2024/projects/"><![CDATA[<h1 id="projects-i-want-to-do-one-day">Projects I want to do, one day</h1> <h2 id="heightmap--normal-map-converter">Heightmap ↔ Normal map converter</h2> <p>The math seems fun and would allow me to relearn things about PDE (with distributions and so on, not the easy way)</p> <div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">losing my mind <a href="https://t.co/K3zYxtP4ko">pic.twitter.com/K3zYxtP4ko</a></p>&mdash; Freya the stray (@FreyaHolmer) <a href="https://twitter.com/FreyaHolmer/status/1752274831775605161?ref_src=twsrc%5Etfw">January 30, 2024</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div> <h2 id="a-good-raytracer">A good Raytracer</h2> <p>I already have https://github.com/philae-ael/Raytracing but it’s not that good</p> <p>I want to do a lot of volumetric stuff and also things like fire</p> <h2 id="a-voxel-renderer">A voxel Renderer</h2> <p>Seems fun also, the techniques seems to lie between online rendering and offline rendering</p> <h2 id="some-geometric-stuff">Some geometric stuff</h2> <p>Don’t know what though</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Projects I want to do, one day]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://philae-ael.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://philae-ael.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-09T17:31:47+00:00</updated><id>https://philae-ael.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">projects I want to do</title><link href="https://philae-ael.github.io/blog/2024/projects/" rel="alternate" type="text/html" title="projects I want to do" /><published>2024-01-30T15:51:00+00:00</published><updated>2024-01-30T15:51:00+00:00</updated><id>https://philae-ael.github.io/blog/2024/projects</id><content type="html" xml:base="https://philae-ael.github.io/blog/2024/projects/"><![CDATA[<h1 id="projects-i-want-to-do-one-day">Projects I want to do, one day</h1>
+
+<h2 id="heightmap--normal-map-converter">Heightmap ↔ Normal map converter</h2>
+
+<p>The math seems fun and would allow me to relearn things about PDE (with distributions and so on, not the easy way)</p>
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">losing my mind <a href="https://t.co/K3zYxtP4ko">pic.twitter.com/K3zYxtP4ko</a></p>&mdash; Freya Holmér (@FreyaHolmer) <a href="https://twitter.com/FreyaHolmer/status/1752274831775605161?ref_src=twsrc%5Etfw">January 30, 2024</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+<h2 id="a-good-raytracer">A good Raytracer</h2>
+
+<p>I already have https://github.com/philae-ael/Raytracing but it’s not that good</p>
+
+<p>I want to do a lot of volumetric stuff and also things like fire</p>
+
+<h2 id="a-voxel-renderer">A voxel Renderer</h2>
+
+<p>Seems fun also, the techniques seems to lie between online rendering and offline rendering</p>
+
+<h2 id="some-geometric-stuff">Some geometric stuff</h2>
+
+<p>Don’t know what though</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Projects I want to do, one day]]></summary></entry></feed>
